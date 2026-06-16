@@ -35,7 +35,7 @@ fun MyApp() {
     ) {
 
         Text(
-            text = "Task 4 - Login Screen",
+            text = "Task 5 - Login Screen",
             style = MaterialTheme.typography.headlineMedium
         )
 
